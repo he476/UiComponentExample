@@ -18,7 +18,7 @@ ListView布局：<br>
 
 # 三、使用XML定义菜单
 布局文件如下：<br>
-```
+<pre><code>
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
@@ -64,7 +64,7 @@ ListView布局：<br>
         </menu>
     </item>
 </menu>
-```
+</code></pre>
 <br>
 ![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/2.png)<br>
 ![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_1.png)<br>
@@ -73,7 +73,7 @@ ListView布局：<br>
 
 # 四、创建上下文操作模式的上下文菜单
 menu的XML文件如下：<br>
-```
+<pre><code>
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 <item
@@ -81,7 +81,7 @@ menu的XML文件如下：<br>
     android:title="delete"
     android:icon="@drawable/delete"/>
 </menu>
-```
+</code></pre>
 <br>
 ![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/4.png)<br>
 
