@@ -1,23 +1,23 @@
 # UiComponentExample
 # 一、ListView实例：利用SimpleAdapter实现
-ListView布局：
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_2.JPG)
+ListView布局：<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_2.JPG)<br>
 
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_3.JPG)
-设置适配器及监听器：
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_1.JPG)
-实验结果：
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/1.png)
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_3.JPG)<br>
+设置适配器及监听器：<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_1.JPG)<br>
+实验结果：<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/1.png)<br>
 
 # 二、创建自定义布局的AlertDialog
-布局如下：
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_2_1.JPG)
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_2_2.JPG)
-实验结果：
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/2.png)
+布局如下：<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_2_1.JPG)<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/lab3_2_2.JPG)<br>
+实验结果：<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/2.png)<br>
 
 # 三、使用XML定义菜单
-布局文件如下：
+布局文件如下：<br>
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
@@ -63,12 +63,13 @@ ListView布局：
         </menu>
     </item>
 </menu>
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_1.png)
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_2.png)
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_3.png)
+<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_1.png)<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_2.png)<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_3.png)<br>
 
 # 四、创建上下文操作模式的上下文菜单
-menu的XML文件如下：
+menu的XML文件如下：<br>
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 <item
@@ -76,6 +77,6 @@ menu的XML文件如下：
     android:title="delete"
     android:icon="@drawable/delete"/>
 </menu>
-
-![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/4.png)
+<br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/4.png)<br>
 
