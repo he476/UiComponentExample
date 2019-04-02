@@ -64,6 +64,7 @@ ListView布局：<br>
     </item>
 </menu>
 <br>
+![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/2.png)<br>
 ![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_1.png)<br>
 ![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_2.png)<br>
 ![image](https://github.com/he476/UiComponentExample/blob/master/app/src/main/res/images/3_3.png)<br>
